@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: Assistant professor \
-             Electrical Engineering department \
+description: Assistant professor <br>
+             Electrical Engineering department <br>
              <a href="https://ufes.br">Universidade Federal do Espírito Santo</a>
 
 profile:
