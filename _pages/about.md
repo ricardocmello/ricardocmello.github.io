@@ -8,7 +8,7 @@ description: Assistant professor <br>
 
 profile:
   align: right
-  image: # prof_pic.jpg
+  image: profile.png
   address: >
 
 news: false  # includes a list of news items
